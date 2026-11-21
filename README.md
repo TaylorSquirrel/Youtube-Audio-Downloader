@@ -15,6 +15,7 @@
 demo for v2
 
 [Watch the V2 Demo on YouTube](https://youtu.be/lFXqTUPx02Y)
+Vid got taken down for sum reason so this might not work
 
 ## Platform Support
 
